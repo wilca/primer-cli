@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <Header title="Portafolio GH"></Header>
+    <Header title="Portafolio GH"/>
     <Container />
-    <Footer></Footer>
+    <Footer/>
   </div>
 </template>
 
